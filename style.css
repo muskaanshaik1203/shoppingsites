@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(181, 242, 181);
+}
+hr{
+color: rgb(82, 7, 46);
+}
+
+
+    .container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        margin: 20px;
+}
+.website {
+    text-align: center;
+}
+.website img {
+    width: auto;
+    height: auto;
+}
+.website a {
+    display: block;
+    text-decoration: none;
+    color: #1d0202;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+</s
